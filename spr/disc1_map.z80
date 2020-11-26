@@ -1,0 +1,9 @@
+;Frame 1
+DB $06, $08
+DB $07, $09
+;Frame 2
+DB $0A, $0C
+DB $0B, $0D
+;Frame 3
+DB $0E, $10
+DB $0F, $11
